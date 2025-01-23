@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -61,15 +60,15 @@ public:
             std::cout << "Queue is empty.\n";
             return;
         }
-        int i = front;
+        int index = front;
         do {
-            std::cout << "Call ID: " << queue[i].callId
-                << ", Type: " << (queue[i].type == CallType::NORMAL ? "NORMAL" : "EMERGENCY")
-                << ", Duration: " << queue[i].duration
-                << ", Callback Requested: " << (queue[i].callbackRequested ? "Yes" : "No")
+            std::cout << "Call ID: " << queue[index].callId
+                << ", Type: " << (queue[index].type == CallType::NORMAL ? "NORMAL" : "EMERGENCY")
+                << ", Duration: " << queue[index].duration
+                << ", Callback Requested: " << (queue[index].callbackRequested ? "Yes" : "No")
                 << "\n";
-            i = (i + 1) % capacity;
-        } while (i != (rear + 1) % capacity);
+            index = (index + 1) % capacity;
+        } while (index != (rear + 1) % capacity);
     }
 
     void prioritizeEmergencyCalls() {
@@ -78,22 +77,22 @@ public:
         std::vector<Call> tempQueue;
 
         // Collect emergency calls first
-        for (int i = front; i <= rear; ++i) {
-            if (queue[i].type == CallType::EMERGENCY) {
-                tempQueue.push_back(queue[i]);
+        for (int index = front; index <= rear; ++index) {
+            if (queue[index].type == CallType::EMERGENCY) {
+                tempQueue.push_back(queue[index]);
             }
         }
 
         // Then, collect normal calls
-        for (int i = front; i <= rear; ++i) {
-            if (queue[i].type == CallType::NORMAL) {
-                tempQueue.push_back(queue[i]);
+        for (int index = front; index <= rear; ++index) {
+            if (queue[index].type == CallType::NORMAL) {
+                tempQueue.push_back(queue[index]);
             }
         }
 
         // Rebuild the queue with emergency calls first
-        for (int i = 0; i < tempQueue.size(); ++i) {
-            queue[i] = tempQueue[i];
+        for (int index = 0; index < tempQueue.size(); ++index) {
+            queue[index] = tempQueue[index];
         }
 
         front = 0;
