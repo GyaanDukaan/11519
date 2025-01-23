@@ -1,0 +1,1550 @@
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+Dequeued Call ID: 2
+Dequeued Call ID: 4
+Queue after two dequeues:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+
+
+
+
+Enqueued Call ID: 1
+Enqueued Call ID: 2
+Enqueued Call ID: 3
+Enqueued Call ID: 4
+Enqueued Call ID: 5
+Initial Queue:
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue after prioritizing emergency calls:
+Call ID: 2, Type: EMERGENCY, Duration: 5, Callback Requested: Yes
+Call ID: 4, Type: EMERGENCY, Duration: 8, Callback Requested: Yes
+Call ID: 1, Type: NORMAL, Duration: 10, Callback Requested: No
+Call ID: 3, Type: NORMAL, Duration: 15, Callback Requested: No
+Call ID: 5, Type: NORMAL, Duration: 20, Callback Requested: No
+
+
+Queue Overflow! Cannot enqueue call.
